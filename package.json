@@ -1,0 +1,24 @@
+{
+  "name": "locations-api",
+  "version": "1.0.0",
+  "description": "RESTful location API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkym24/locations-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkym24/locations-api/issues"
+  },
+  "homepage": "https://github.com/Jkym24/locations-api#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
